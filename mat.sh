@@ -19,6 +19,9 @@ case "$COMMAND" in
   pi)
     ./core/pi/bootstrap.sh
     ;;
+  help)
+    ./core/help/help.sh "$SUBCOMMAND"
+    ;;
   *)
     echo "MAT — Minimalist Automation Toolkit"
     echo "Usage: mat <run|backup|services|pi>"
