@@ -1,0 +1,8 @@
+name = "Minimalist Automation Toolkit"
+version = "0.1.0"
+
+[tasks]
+backup_daily = "core/backup/backup.sh"
+
+[services]
+pihole = "core/services/pihole/docker-compose.yml"
