@@ -1,0 +1,13 @@
+🟦 MAT — General Help
+---------------------
+
+MAT is a minimalist automation toolkit for:
+- Raspberry Pi
+- Home servers
+- Small business automation
+- Docker-based services
+
+Everything is designed to be:
+- Simple
+- Deterministic
+- Transparent
