@@ -1,0 +1,13 @@
+🟦 MAT — Raspberry Pi Tools
+---------------------------
+
+Bootstrap a Raspberry Pi:
+
+  mat pi bootstrap
+
+This installs:
+- Essentials
+- Docker
+- SSH
+- Locale + timezone
+- MAT directory
