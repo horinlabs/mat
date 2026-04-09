@@ -1,0 +1,11 @@
+🟦 MAT — Backup Manager
+-----------------------
+
+Run the backup routine:
+
+  mat backup
+
+Backups are defined in:
+  core/backup/backup.sh
+
+You can map tasks to backups in mat.toml.
