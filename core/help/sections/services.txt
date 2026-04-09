@@ -1,0 +1,13 @@
+🟦 MAT — Services
+-----------------
+
+Deploy a service:
+
+  mat services deploy <name>
+
+Services live in:
+  core/services/<name>/docker-compose.yml
+
+Examples:
+  mat services deploy pihole
+  mat services deploy traefik
