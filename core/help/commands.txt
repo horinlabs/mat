@@ -1,0 +1,26 @@
+🟦 MAT — Minimalist Automation Toolkit
+-------------------------------------
+
+Usage:
+  mat <command> [options]
+
+Commands:
+  help                Show this help screen
+  help <section>      Show help for a specific section
+
+  run <task>          Run a task from mat.toml
+  backup              Execute backup routines
+  services <action>   Deploy or manage services
+  pi bootstrap        Bootstrap a Raspberry Pi
+
+Sections:
+  general             Overview of MAT
+  tasks               Task runner usage
+  services            Service templates
+  backup              Backup manager
+  pi                  Raspberry Pi tools
+
+Examples:
+  mat help tasks
+  mat run backup_daily
+  mat services deploy pihole
