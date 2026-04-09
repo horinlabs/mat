@@ -3,6 +3,7 @@ version = "0.1.0"
 
 [tasks]
 backup_daily = "core/backup/backup.sh"
+update_system = "core/tasks/examples/update_system.sh"
 
 [services]
 pihole = "core/services/pihole/docker-compose.yml"
