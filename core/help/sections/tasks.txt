@@ -1,0 +1,12 @@
+🟦 MAT — Task Runner
+--------------------
+
+Run tasks defined in mat.toml:
+
+  mat run <task>
+
+Example:
+  mat run backup_daily
+
+Tasks are defined under [tasks] in mat.toml.
+Each task maps to a shell script.
