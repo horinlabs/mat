@@ -2,10 +2,9 @@
 
 MAT is a minimalist, open‑source automation toolkit designed for developers, homelabbers, and small businesses who want **clean, reliable, low‑friction automation** without the complexity of full orchestration platforms.
 
-Built with a Japanese–German–Swiss design philosophy:
+Built with a minimalistc design philosophy:
 - **Simple**
 - **Predictable**
-- **Minimal**
 - **Beautifully engineered**
 
 MAT helps you automate:
